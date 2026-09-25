@@ -6,6 +6,8 @@ A stupidly simple Windows app that tells you whether two files are exactly the s
 >
 > It works on my machine, so i hope it works on yours.
 
+![FileCompare showing two matching files](docs/screenshot.png)
+
 ## Features
 
 - **Drag 2 files onto `FileCompare.exe`** and it compares them right away.
