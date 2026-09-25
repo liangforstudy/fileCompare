@@ -10,7 +10,7 @@ A stupidly simple Windows app that tells you whether two files are exactly the s
 
 - **Drag 2 files onto `FileCompare.exe`** and it compares them right away.
 - **Drag 1 file onto it, or double-click it,** to open a window. Then add the 2nd file by dropping it on the window or clicking **Browse...**.
-- Shows a progress bar, which helps with big files such as multi-GB game dumps.
+- Shows a progress bar, which helps with big files.
 - Results:
   - ✅ **It's a match!**: the files are identical. It also shows the file size.
   - ❌ **False (sizes differ / contents differ)**: it shows each file's size and SHA256 hash.
