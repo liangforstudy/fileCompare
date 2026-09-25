@@ -8,6 +8,12 @@ A stupidly simple Windows app that tells you whether two files are exactly the s
 
 ![FileCompare showing two matching files](docs/screenshot.png)
 
+## Download
+
+**[⬇️ Download FileCompare.exe](https://github.com/liangforstudy/fileCompare/raw/main/FileCompare.exe)** (~10 KB, no install needed)
+
+> Windows may show a "Windows protected your PC" warning because the exe isn't signed. Click **More info** → **Run anyway**.
+
 ## Features
 
 - **Drag 2 files onto `FileCompare.exe`** and it compares them right away.
