@@ -14,7 +14,7 @@ A stupidly simple Windows app that tells you whether two files are exactly the s
 - Results:
   - ✅ **It's a match!**: the files are identical. It also shows the file size.
   - ❌ **False (sizes differ / contents differ)**: it shows each file's size and SHA256 hash.
-- Portable: one ~10 KB exe with no installer, no registry changes and no console window.
+- Portable: one ~10 KB exe with no installer, no registry changes and no super scarry black console window that looks like you got hacked.
 
 ## Requirements
 
