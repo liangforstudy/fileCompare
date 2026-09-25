@@ -3,6 +3,7 @@
 A stupidly simple Windows app that tells you whether two files are exactly the same using SHA256. portable and stupidly small.
 
 > ⚠️ **Warning! Every line in this app is 100% Vibecoded by Claude opus 5.5 Low!!!** ⚠️
+>
 > It works on my machine, so i hope it works on yours.
 
 ## Features
